@@ -1,6 +1,6 @@
 ---
 title: Singularity
-date: 2023-09-23
+date: 2023-09-23 18:58:58 +02:00
 tags: [astronomy]
 ---
 A hypothetical point in the center of Black-Hole consisting of Infinite Density, Mass, And Gravity. In that point, Gravity is so powerful that even light can’t escape. This point will curve the Spacetime so much that it may even create a Wormhole or a Rosen-Einstein Bridge.
