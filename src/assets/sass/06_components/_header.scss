@@ -42,7 +42,7 @@ nav {
 		display: block;
 		padding: 0.1em 0.5em;
 		color: #05d9e8;
-		background-color: #ddd;
+		background-color: #212121;
 		border: 2px solid #05d9e8;
 	}
 
@@ -53,8 +53,8 @@ nav {
 
 	a:hover {
 		color: var(--theme-color-contrast);
-		background-color: var(--theme-color);
-		border-color: var(--theme-color);
+		background-color: #121212;
+		border-color: #05d9e8;
 	}
 
 	.current {
