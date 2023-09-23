@@ -12,8 +12,8 @@ header > * {
 	font-size: 2rem;
 	font-weight: bold;
 	color: var(--theme-color-contrast);
-	background-color: var(--theme-color);
-	border-bottom: 2px solid var(--theme-color);
+	background-color: #121212;
+	border-bottom: 2px solid #05d9e8;
 
 	a {
 		// text-decoration: none;
@@ -41,9 +41,9 @@ nav {
 	a {
 		display: block;
 		padding: 0.1em 0.5em;
-		color: var(--theme-color);
+		color: #05d9e8;
 		background-color: #ddd;
-		border: 2px solid #ddd;
+		border: 2px solid #05d9e8;
 	}
 
 	.githubstars {
